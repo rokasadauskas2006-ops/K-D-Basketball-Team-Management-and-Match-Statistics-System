@@ -1,0 +1,45 @@
+{
+    "name": "Zalgiris",
+    "coach": {
+        "name": "Tomas Masiulis",
+        "age": 39,
+        "experience": 4
+    },
+    "players": [
+        {
+            "name": "Nigel Williams-Goss",
+            "age": 30,
+            "number": 1,
+            "position": "Guard",
+            "height": 191
+        },
+        {
+            "name": "Sylvain Francisco",
+            "age": 28,
+            "number": 3,
+            "position": "Guard",
+            "height": 185
+        },
+        {
+            "name": "Azuolas Tubelis",
+            "age": 24,
+            "number": 10,
+            "position": "Forward",
+            "height": 208
+        },
+        {
+            "name": "Laurynas Birutis",
+            "age": 27,
+            "number": 15,
+            "position": "Center",
+            "height": 213
+        },
+        {
+            "name": "Edgaras Ulanovas",
+            "age": 34,
+            "number": 92,
+            "position": "Forward",
+            "height": 199
+        }
+    ]
+}
